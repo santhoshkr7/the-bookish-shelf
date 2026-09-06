@@ -22,14 +22,12 @@ Many reading platforms focus on social feeds, followers, and recommendations. Th
 
 ## Screenshots
 
-Add screenshots to `screenshots/` when ready:
 
-```text
 screenshots/dashboard.png
-screenshots/my-books.png
+screenshots/add-book.png
 screenshots/book-details.png
 screenshots/reading-room.png
-```
+
 
 Then reference them here with Markdown image links.
 
