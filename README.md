@@ -22,14 +22,27 @@ Many reading platforms focus on social feeds, followers, and recommendations. Th
 
 ## Screenshots
 
+## Screenshots
 
-screenshots/dashboard.png
-screenshots/add-book.png
-screenshots/book-details.png
-screenshots/reading-room.png
+### Dashboard
 
+![Dashboard](screenshots/dashboard.png)
 
-Then reference them here with Markdown image links.
+### My Books
+
+![My Books](screenshots/my-books.png)
+
+### Add Book
+
+![Add Book](screenshots/add-book.png)
+
+### Book Details
+
+![Book Details](screenshots/book-details.png)
+
+### Reading Room
+
+![Reading Room](screenshots/reading-room.png)
 
 ## Tech stack
 
