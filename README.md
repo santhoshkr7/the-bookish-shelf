@@ -28,10 +28,6 @@ Many reading platforms focus on social feeds, followers, and recommendations. Th
 
 ![Dashboard](screenshots/dashboard.png)
 
-### My Books
-
-![My Books](screenshots/my-books.png)
-
 ### Add Book
 
 ![Add Book](screenshots/add-book.png)
@@ -46,7 +42,7 @@ Many reading platforms focus on social feeds, followers, and recommendations. Th
 
 ## Tech stack
 
-- React and Vite
+- React 
 - JavaScript, HTML, and plain CSS
 - React Router
 - Node.js and Express
