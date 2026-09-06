@@ -1,0 +1,1 @@
+import {Link} from 'react-router-dom';export default function EmptyState({text='Your shelf is waiting for its first story.'}){return <div className="empty"><div className="empty-icon">◇</div><p>{text}</p><Link className="button" to="/books/new">Add your first book</Link></div>}

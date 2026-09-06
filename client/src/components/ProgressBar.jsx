@@ -1,0 +1,1 @@
+export default function ProgressBar({current=0,total=1}){const pct=Math.min(100,Math.round(current/total*100));return <><div className="progress"><span style={{width:`${pct}%`}}/></div><small>{current} / {total} pages ({pct}%)</small></>}

@@ -1,0 +1,1 @@
+export default function DeleteConfirmationModal({onConfirm,onCancel}){return <div className="modal"><div className="modal-box"><h3>Delete this book?</h3><p>This action cannot be undone.</p><button className="danger" onClick={onConfirm}>Delete</button> <button onClick={onCancel}>Cancel</button></div></div>}

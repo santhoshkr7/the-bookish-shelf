@@ -1,0 +1,1 @@
+import {useNavigate} from 'react-router-dom';import BookForm from '../components/BookForm.jsx';import {createBook} from '../services/bookService.js';export default function AddBook(){const nav=useNavigate();return <><h1>Add Book</h1><BookForm submitLabel="Add Book" onSubmit={d=>createBook(d).then(b=>nav(`/books/${b._id}`)).catch(e=>alert(e.message))}/></>}
